@@ -21,6 +21,4 @@ A simple web-based slot machine game.
 - JavaScript: 57.9%
 - HTML: 42.1%
 
-## Repository
 
-[GitHub Repository](https://github.com/andrew5701/web-slot-machine)
